@@ -6,7 +6,7 @@
 
 ## 🖱️ 5 Minutes Engineering ⌨️
 
-| **Topics Covered** | **Tutorials Videos/Study Materials** |
+| 🏷️ **Topics Covered** | 🔦 **Tutorials Videos/Study Materials** |
 | ------------------ | ------------------------------------ |
 | ✔ **Introduction** | **[⤤Checkout⤢](https://youtu.be/Y4qO9unerGs?si=QTyc4-w2lFAl5wgF)** |
 | ✔ **Classic & Adaptive Machines** | **[⤤Checkout⤢](https://youtu.be/YHcAQKrh3E4?si=O0RhyYr5GT5CpMQs)** |
